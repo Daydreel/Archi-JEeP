@@ -9,7 +9,7 @@ var Game = function(){
     this.screens_folder = "./assets/images/screens/";
 
     //Sprite Path
-    this.sprite_folder = "./assets/images/sprites/";
+    this.sprite_folder = "./assets/sprites/";
 
     //sound path
     this.ambiance_folder = "./assets/sounds/";
